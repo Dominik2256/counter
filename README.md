@@ -9,7 +9,7 @@ Welcome to the Cool Counter App! This is a basic web application that allows you
 
 ## Demo
 
-You can try the live demo [here](#) [// Update with your demo link].
+You can try the live demo [here](https://dominik2256.github.io/counter/).
 
 ## Usage
 
